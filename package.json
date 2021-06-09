@@ -1,0 +1,23 @@
+{
+  "name": "netlify-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nibble0101/netlify-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nibble0101/netlify-playground/issues"
+  },
+  "homepage": "https://github.com/nibble0101/netlify-playground#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
